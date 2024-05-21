@@ -189,6 +189,8 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  
+  font-size: 1.25rem;
 }
 
 .section__text__p2 {
@@ -197,12 +199,13 @@ section {
 }
 
 .section__text__p3 {
-  font-size: 1.25rem;
+  margin-top: -1rem;
+  font-size: 1.1rem;
   margin-bottom: 2rem;
 }
 
 .title {
-  font-size: 3rem;
+  font-size: 2.3rem;
   text-align: center;
 }
 
@@ -273,6 +276,7 @@ section {
 #about {
   position: relative;
   margin-bottom: 5cm;
+  margin-top: 5cm;
 }
 
 .about-containers {
@@ -446,6 +450,7 @@ h3 {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  margin-top: 3cm;
 }
 
 .contact-info-upper-container {
